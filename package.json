@@ -1,0 +1,15 @@
+{
+  "name": "htmltopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hardeeksharma",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.5.3",
+    "puppeteer": "^2.0.0"
+  }
+}
